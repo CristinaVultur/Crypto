@@ -1,0 +1,2 @@
+# Crypto
+Proiectul prezinta doua module implementate: modul de criptografie care se ocupa de problema criptarii/decriptarii unui mesaj dintr-o imagine tip BMP si modulul de recunoastere de pattern-uri care se ocupa de recunoasterea de cifre scrise de mana intr-o imagine folosind metoda template matching. Criptarea este testata prin evaluarea uniformitatii distributiei culorilor cu ajutorul testului "chi-patrat'.
